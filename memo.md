@@ -7,3 +7,4 @@ if-else, if-elif, 三項演算子p.399
 while, for..in, range(), break, continue
 **5-1.オリジナルの関数**
 ローカル変数
+関数の引数、戻り値
