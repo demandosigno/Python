@@ -5,3 +5,5 @@
 if-else, if-elif, 三項演算子p.399  
 **4-1.繰り返し**
 while, for..in, range(), break, continue
+**5-1.オリジナルの関数**
+ローカル変数
