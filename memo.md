@@ -19,3 +19,6 @@ while, for..in, range(), break, continue
 オブジェクトのidentity、参照
 関数の引数や戻り値にidentityが受け渡されると、変数の独立性が崩れる可能性がある→防御的コピー
 int, str, tupleなどは不変オブジェクト
+**7 モジュール**
+組み込み関数。ファイル入力、文字コード。
+import as
