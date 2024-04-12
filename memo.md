@@ -22,3 +22,10 @@ int, str, tupleなどは不変オブジェクト
 **7 モジュール**
 組み込み関数。ファイル入力、文字コード。
 import as
+from モジュール名 import 変数名または関数名 as 別名
+特定の変数や関数だけを取り込んだり、別名を付けたり
+from モジュール名 import * でワイルドカードも使えるが非推奨
+パッケージ
+import http.client（httpパッケージのclientモジュール）
+from http import client
+from http.client import HTTPConnection
