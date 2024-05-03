@@ -29,3 +29,4 @@ from モジュール名 import * でワイルドカードも使えるが非推�
 import http.client（httpパッケージのclientモジュール）
 from http import client
 from http.client import HTTPConnection
+外部ライブラリ import requests
