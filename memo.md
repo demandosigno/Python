@@ -30,3 +30,7 @@ import http.client（httpパッケージのclientモジュール）
 from http import client
 from http.client import HTTPConnection
 外部ライブラリ import requests
+8章
+データベース、ウィンドウアプリケーション
+ウェブアプリ、IOT
+API、OpenAI、データ分析、機械学習
